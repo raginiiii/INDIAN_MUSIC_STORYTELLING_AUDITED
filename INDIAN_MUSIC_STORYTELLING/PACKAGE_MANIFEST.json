@@ -1,0 +1,159 @@
+{
+  "package": "INDIAN_MUSIC_STORYTELLING",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2590
+    },
+    {
+      "path": "data/craft_processes.json",
+      "bytes": 230
+    },
+    {
+      "path": "data/data_dictionary.md",
+      "bytes": 2637
+    },
+    {
+      "path": "data/geography.json",
+      "bytes": 203
+    },
+    {
+      "path": "data/instruments.json",
+      "bytes": 265
+    },
+    {
+      "path": "data/makers.json",
+      "bytes": 198
+    },
+    {
+      "path": "data/materials.json",
+      "bytes": 217
+    },
+    {
+      "path": "data/musicians.json",
+      "bytes": 196
+    },
+    {
+      "path": "data/traditions.json",
+      "bytes": 261
+    },
+    {
+      "path": "docs/00_START_HERE.md",
+      "bytes": 2346
+    },
+    {
+      "path": "docs/01_PROJECT_BRIEF.md",
+      "bytes": 2415
+    },
+    {
+      "path": "docs/02_RESEARCH_METHODOLOGY.md",
+      "bytes": 3378
+    },
+    {
+      "path": "docs/03_TRADITION_SELECTION.md",
+      "bytes": 1803
+    },
+    {
+      "path": "docs/04_RESEARCH_DOSSIER.md",
+      "bytes": 2236
+    },
+    {
+      "path": "docs/05_INSTRUMENT_DATABASE.md",
+      "bytes": 1476
+    },
+    {
+      "path": "docs/06_DATA_STORYTELLING.md",
+      "bytes": 2306
+    },
+    {
+      "path": "docs/07_NARRATIVE_ARCHITECTURE.md",
+      "bytes": 1508
+    },
+    {
+      "path": "docs/08_VISUAL_DIRECTION.md",
+      "bytes": 1964
+    },
+    {
+      "path": "docs/09_DESIGN_SYSTEM.md",
+      "bytes": 1910
+    },
+    {
+      "path": "docs/10_UX_AND_INTERACTION.md",
+      "bytes": 5940
+    },
+    {
+      "path": "docs/11_MEDIA_AND_ASSET_GUIDELINES.md",
+      "bytes": 2222
+    },
+    {
+      "path": "docs/12_TECHNICAL_ARCHITECTURE.md",
+      "bytes": 4346
+    },
+    {
+      "path": "docs/13_IMPLEMENTATION_PHASES.md",
+      "bytes": 2679
+    },
+    {
+      "path": "docs/14_AI_STUDIO_MASTER_PROMPT.md",
+      "bytes": 4227
+    },
+    {
+      "path": "docs/15_QA_AND_VALIDATION.md",
+      "bytes": 2418
+    },
+    {
+      "path": "docs/16_SOURCES_AND_CREDITS.md",
+      "bytes": 1900
+    },
+    {
+      "path": "docs/17_INDEPENDENT_RESEARCH_AUDIT.md",
+      "bytes": 24813
+    },
+    {
+      "path": "media/asset_credits.md",
+      "bytes": 734
+    },
+    {
+      "path": "media/audio_manifest.csv",
+      "bytes": 231
+    },
+    {
+      "path": "media/image_manifest.csv",
+      "bytes": 180
+    },
+    {
+      "path": "media/video_manifest.csv",
+      "bytes": 197
+    },
+    {
+      "path": "original_data/README.md",
+      "bytes": 835
+    },
+    {
+      "path": "research/dataset_sources.csv",
+      "bytes": 165
+    },
+    {
+      "path": "research/independent_audit_register.csv",
+      "bytes": 4540
+    },
+    {
+      "path": "research/research_gaps.md",
+      "bytes": 2198
+    },
+    {
+      "path": "research/research_sources.csv",
+      "bytes": 201
+    },
+    {
+      "path": "research/verification_log.md",
+      "bytes": 2616
+    }
+  ],
+  "audit": {
+    "date": "2026-11-18",
+    "report": "docs/17_INDEPENDENT_RESEARCH_AUDIT.md",
+    "register": "research/independent_audit_register.csv",
+    "overall_status": "not_ready_for_factual_content_implementation_or_publication"
+  }
+}
